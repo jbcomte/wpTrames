@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bluestreet\n"
+"POT-Creation-Date: 2016-03-12 17:22+0530\n"
+"PO-Revision-Date: 2016-03-12 17:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\bluestreet\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\bluestreet\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/blog-fullwidth.php:46
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/blog-fullwidth.php:47
+msgid "Pages:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/blog-fullwidth.php:68
+msgid "Previous"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/blog-fullwidth.php:69
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:334
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:335
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:73
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:336
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:397
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:133
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:398
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:134
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:399
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3029
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:135
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:400
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:136
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:401
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:137
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:402
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:138
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:403
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:139
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:404
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:140
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:405
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/functions.php:141
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/customizer/customizer_theme_style.php:39
+msgid "Theme Style Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\bluestreet/customizer/customizer_theme_style.php:53
+msgid "Predefined Colors"
+msgstr ""
