@@ -2,7 +2,7 @@
 
 header('Content-Type: application/json');
 
-$return = array('data' => 'ok !', 'code' => 200);
+$return = array('data' => 'Hello '.$_POST['firstname'], 'code' => 200);
 
 echo json_encode($return);
 ?>
